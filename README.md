@@ -1,2 +1,1 @@
-# C23_project
-Castle
+# Box Class
